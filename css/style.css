@@ -42,9 +42,71 @@ a{
     text-transform: uppercase;
 }
 .menu ul li{
-    margin: 0 10px;
+    padding: 12px 20px;
+    border-radius: 5px;
+}
+.menu ul li a{
+    font-weight: 550;
+    color: #333;
+}
+.menu ul li:hover{
+    background: #f36223;
+}
+.menu ul li:hover > a{
+    color: #fff;
 }
 .banner{
     width: 100%;
+}
+main{
+    margin-top: 20px;
+}
+.grade a{
+    text-decoration: none;
+    width: 33.333%;
+    height: 120px;
+    margin: 20px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 30px;
+    text-decoration: transparent;
+}
+.grade .class-one{
+    background: rgb(128, 88, 165);
+}
+.grade .class-two{
+    background: #0078e7;
+}
+.grade .class-three{
+    background: rgb(28, 184, 65);
+}
+.grade .class-four{
+    background: rgb(223, 117, 20);
+}
+.grade .class-five{
+    background: rgb(202, 60, 60);
+}
+.grade .test{
+    background: rgb(66, 184, 221);
+}
+/* introduction  */
+.description .group{
+    display: flex;
+    justify-content: center;
+}
+.group img{
+    border-radius: 50%;
+    width: 96px;
+    height: 96px;
+    margin-right: 30px;
+}
+.description p{
+    line-height: 1.5em;
+    font-size: 20px;
+    font-style: italic;
+    padding: 5px;
 }
 
