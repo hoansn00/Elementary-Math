@@ -90,10 +90,38 @@
                 </div>
             </div>
             <div class="video">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/L3KTOT0TO60?start=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-                </iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/TvLNwCq51tQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
     </introduction>
+    <footer>
+        <div id="footer_logo"></div>
+        <div id="footer_header"></div>
+        <div id="footer_content">
+            <div class="container">
+                <div class="pure-g">
+                    <div class="pure-u-1 pure-u-md-1-3">
+                        <ul class="list_item">
+                            <li><b>Hỗ trợ</b></li>
+                            <li><a href="">Hướng dẫn sử dụng</a></li>
+                        </ul>
+                    </div>
+                    <div class="pure-u-1 pure-u-md-1-3">
+                        <ul class="list_item">
+                            <li><b>Hướng dẫn</b></li>
+                            <li><a href="">Hướng dẫn sử dụng</a></li>
+                        </ul>
+                    </div>
+                    <div class="pure-u-1 pure-u-md-1-3">
+                        <ul class="list_item">
+                            <li><b>Liên hệ</b></li>
+                            <li>Email: <a href="">hoansn00@gmail.com</a></li>
+                            <li>Facebook: <a href="" target="_blank">fabook.com</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
 </body>
 </html>
